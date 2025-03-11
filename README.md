@@ -15,15 +15,15 @@ This project demonstrates the design and implementation of a scalable and effici
 1. **Add Routers**:
    - Place three routers (R1, R2, R3) in Cisco Packet Tracer.
    - Use serial connections to link them: 
-     - R1 to R2.
-     - R2 to R3.
+     - R2 to R1.
+     - R1 to R3.
 
 2. **Configure Static IP Addresses Between Routers**:
-   - For R1-R2 connection, set:
-     - R1: `192.168.11.1/24`
-     - R2: `192.168.11.2/24`
-   - For R2-R3 connection, set:
-     - R2: `192.168.12.1/24`
+   - For R2-R1 connection, set:
+     - R2: `192.168.11.1/24`
+     - R1: `192.168.11.2/24`
+   - For R1-R3 connection, set:
+     - R1: `192.168.12.1/24`
      - R3: `192.168.12.2/24`
 
 3. **Add Switches and PCs**:
