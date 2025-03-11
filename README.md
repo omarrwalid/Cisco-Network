@@ -84,4 +84,4 @@ This project demonstrates the design and implementation of a scalable and effici
 
 This project successfully demonstrates the design and implementation of a scalable network with dynamic IP assignment and automated routing updates. Challenges included configuring RIP and troubleshooting IP address issues, but the network functions efficiently after setup.
 
-![Network Topology](path/to/your/network_topology_image.png)
+![Network Topology](images/Screenshot 2025-03-12 000419.png)
